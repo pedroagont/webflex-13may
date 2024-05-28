@@ -1,0 +1,15 @@
+{
+  "name": "m01w03",
+  "version": "1.0.0",
+  "description": "### To Do",
+  "main": "say-hello.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0"
+  }
+}
