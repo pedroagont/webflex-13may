@@ -1,0 +1,14 @@
+{
+  "name": "test-4-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "needle": "^3.3.1"
+  }
+}
